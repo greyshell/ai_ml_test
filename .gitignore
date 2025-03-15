@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+data/
+cifar10_cnn.pth
+cifar10_training_results.png
